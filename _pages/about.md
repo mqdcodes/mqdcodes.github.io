@@ -18,6 +18,17 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 <!-- Research Papers Section -->
 ## Research
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="width: calc(50% - 10px);">
+    <img src="/images/vamos-paper.png" alt="Vamos Paper" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: calc(50% - 10px);">
+    <h3>Vamos: Versatile Action Models for Video Understanding</h3>
+    <p><strong>Authors:</strong> Shijie Wang, Qi Zhao, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
+    <p><strong>Details:</strong> Preprint, In Submission to CVPR 2024</p>
+    <p><a href="https://arxiv.org/abs/2311.13627">website</a> | <a href="https://brown-palm.github.io/Vamos/">arXiv</a></p>
+  </div>
+</div>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; max-width: 25%;">
