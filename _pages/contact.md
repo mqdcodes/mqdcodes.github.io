@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Contact
+<!-- Contact -->
 ======
 Minh Quan Do
 Email: minh_quan_do [at] brown [dot] edu 
