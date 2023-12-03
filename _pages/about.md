@@ -19,10 +19,10 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 ## Research
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <div style="flex: 1; max-width: 48%;">
+  <div style="flex: 1; max-width: 25%;">
     <img src="/images/vamos-paper.png" alt="Vamos Paper" style="width: 100%;">
   </div>
-  <div style="flex: 1; max-width: 48%;">
+  <div style="flex: 1; max-width: 75%;">
     <h3>Vamos: Versatile Action Models for Video Understanding</h3>
     <p><strong>Authors:</strong> Shijie Wang, Qi Zhao, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
     <p><strong>Details:</strong> Preprint, In Submission to CVPR 2024</p>
@@ -31,10 +31,10 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <!-- <div style="flex: 1; max-width: 48%;"> -->
+  <div style="flex: 1; max-width: 25%;">
     <img src="/images/antgpt-paper.gif" alt="AntGPT Paper" style="width: 100%;">
-  <!-- </div> -->
-  <div>
+  </div>
+  <div style="flex: 1; max-width: 75%;">
     <h3>AntGPT: Can Large Language Model Help Long-term Action Anticipation from Videos?</h3>
     <p><strong>Authors:</strong> Qi Zhao*, Shijie Wang*, Ce Zhang, Changcheng Fu, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
     <p><strong>Details:</strong> Preprint, In Submission to ICLR 2024</p>
