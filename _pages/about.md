@@ -15,6 +15,20 @@ redirect_from:
 Hi! I am Minh Quan Do.
 I am a 5th year masters student at Brown University in Computer Science advised by [Professor Chen Sun](https://chensun.me/index.html), doing multimodal and computer vision work. Previously, I received my Bachelors at Brown University double concentrating in Computer Science and Economics (with advanced standing — after taking a gap semester in the Spring of 2021 to work at a software company).
 
+<!-- Research Papers Section -->
+## Research
+
+### AntGPT: Can Large Language Model Help Long-term Action Anticipation from Videos?
+![AntGPT Paper](/assets/images/antgpt-paper.gif)  
+**Authors:** Qi Zhao*, Shijie Wang*, Ce Zhang, Changcheng Fu, **Minh Quan Do**, Nakul Agarwal, Kwonjoon Lee, Chen Sun  
+**Details:** Preprint. 
+[Link](https://arxiv.org/abs/2311.13627) | [Website](https://brown-palm.github.io/Vamos/)
+
+### Vamos: Versatile Action Models for Video Understanding
+![Vamos Paper](/assets/images/vamos-paper.png)  
+**Authors:** Shijie Wang, Qi Zhao, **Minh Quan Do**, Nakul Agarwal, Kwonjoon Lee, Chen Sun  
+**Details:** Preprint. 
+[Link](https://arxiv.org/abs/2311.13627) | [Website](https://brown-palm.github.io/Vamos/)
 
 <!-- Education -->
 <!-- ====== -->
