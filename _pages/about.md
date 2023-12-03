@@ -26,7 +26,7 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 [Link](https://arxiv.org/abs/2311.13627) | [Website](https://brown-palm.github.io/Vamos/)
 
 ### Vamos: Versatile Action Models for Video Understanding
-![Vamos Paper](/images/vamos-paper.png)  
+![Vamos Paper](vamos-paper.png)  
 **Authors:** Shijie Wang, Qi Zhao, **Minh Quan Do**, Nakul Agarwal, Kwonjoon Lee, Chen Sun  
 **Details:** Preprint. 
 [Link](https://arxiv.org/abs/2311.13627) | [Website](https://brown-palm.github.io/Vamos/)
