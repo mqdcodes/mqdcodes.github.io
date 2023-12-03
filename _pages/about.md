@@ -31,6 +31,32 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 **Details:** Preprint. 
 [Link](https://arxiv.org/abs/2311.13627) | [Website](https://brown-palm.github.io/Vamos/)
 
+## Research
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="/images/antgpt-paper.gif" alt="AntGPT Paper" style="max-width: 100%;">
+  </div>
+  <div style="flex: 2;">
+    <h3>AntGPT: Can Large Language Model Help Long-term Action Anticipation from Videos?</h3>
+    <p><strong>Authors:</strong> Qi Zhao*, Shijie Wang*, Ce Zhang, Changcheng Fu, Minh Quan Do, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
+    <p><strong>Details:</strong> Preprint, In Submission to ICLR 2024</p>
+    <p><a href="LINK-TO-WEBSITE">website</a> | <a href="LINK-TO-ARXIV">arXiv</a> | <span>code coming soon</span></p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1;">
+    <img src="/images/vamos-paper.png" alt="Vamos Paper" style="max-width: 100%;">
+  </div>
+  <div style="flex: 2;">
+    <h3>Vamos: Versatile Action Models for Video Understanding</h3>
+    <p><strong>Authors:</strong> Shijie Wang, Qi Zhao, Minh Quan Do, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
+    <p><strong>Details:</strong> Preprint, In Submission to CVPR 2024</p>
+    <p><a href="LINK-TO-WEBSITE">website</a> | <a href="LINK-TO-ARXIV">arXiv</a></p>
+  </div>
+</div>
+
 <!-- Education -->
 <!-- ====== -->
 <!-- - 09/2019 - 09/2023, Brown University -->
