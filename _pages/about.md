@@ -10,10 +10,12 @@ redirect_from:
 
 About Me
 ======
-I am a....
+Hi! I am Minh Quan Do.
+I am a 5th year masters student at Brown University in Computer Science advised by [Professor Chen Sun](https://chensun.me/index.html), doing multimodal and computer vision work. Previously, I received my Bachelors at Brown University double concentrating in Computer Science and Economics (with advanced standing — after taking a gap semester in the Spring of 2021 to work at a software company).
 
-Education
-======
+
+<!-- Education -->
+<!-- ====== -->
 <!-- - 09/2019 - 09/2023, Brown University -->
 
 <!-- Site-wide configuration
