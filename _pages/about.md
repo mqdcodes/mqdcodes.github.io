@@ -18,7 +18,7 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 <!-- Research Papers Section -->
 ## Research
 
-<div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <div style="flex: 1; max-width: 25%;">
     <img src="/images/vamos-paper.png" alt="Vamos Paper" style="width: 100%;">
   </div>
