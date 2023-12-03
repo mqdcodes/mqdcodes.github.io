@@ -18,24 +18,12 @@ I am a 5th year masters student at Brown University in Computer Science advised 
 <!-- Research Papers Section -->
 ## Research
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="width: calc(50% - 10px);">
-    <img src="/images/vamos-paper.png" alt="Vamos Paper" style="width: 100%; height: auto;">
-  </div>
-  <div style="width: calc(50% - 10px);">
-    <h3>Vamos: Versatile Action Models for Video Understanding</h3>
-    <p><strong>Authors:</strong> Shijie Wang, Qi Zhao, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
-    <p><strong>Details:</strong> Preprint, In Submission to CVPR 2024</p>
-    <p><a href="https://arxiv.org/abs/2311.13627">website</a> | <a href="https://brown-palm.github.io/Vamos/">arXiv</a></p>
-  </div>
-</div>
-
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; max-width: 25%;">
     <img src="/images/vamos-paper.png" alt="Vamos Paper" style="width: 100%;">
   </div>
   <div style="flex: 1; max-width: 75%;">
-    <h3>Vamos: Versatile Action Models for Video Understanding</h3>
+    <h3 style="margin-top: 0; margin-bottom: 1em;">Vamos: Versatile Action Models for Video Understanding</h3>
     <p><strong>Authors:</strong> Shijie Wang, Qi Zhao, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
     <p><strong>Details:</strong> Preprint, In Submission to CVPR 2024</p>
     <p><a href="https://arxiv.org/abs/2311.13627">website</a> | <a href="https://brown-palm.github.io/Vamos/">arXiv</a></p>
@@ -47,7 +35,7 @@ I am a 5th year masters student at Brown University in Computer Science advised 
     <img src="/images/antgpt-paper.gif" alt="AntGPT Paper" style="width: 100%;">
   </div>
   <div style="flex: 1; max-width: 75%;">
-    <h3>AntGPT: Can Large Language Model Help Long-term Action Anticipation from Videos?</h3>
+    <h3 style="margin-top: 0; margin-bottom: 1em;">AntGPT: Can Large Language Model Help Long-term Action Anticipation from Videos?</h3>
     <p><strong>Authors:</strong> Qi Zhao*, Shijie Wang*, Ce Zhang, Changcheng Fu, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
     <p><strong>Details:</strong> Preprint, In Submission to ICLR 2024</p>
     <p><a href="https://arxiv.org/abs/2307.16368">website</a> | <a href="https://brown-palm.github.io/AntGPT/">arXiv</a></p>
