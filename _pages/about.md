@@ -9,6 +9,7 @@ redirect_from:
   - /aboutme/
   - /about.html
 ---
+<meta name="google-site-verification" content="UB9cSZRa6a-oZazR3JEvjohfUzHG-uMvFVJC3s_8ACo" />
 
 <!-- About Me -->
 ## About Me
