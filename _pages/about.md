@@ -25,7 +25,7 @@ I am a 5th year masters student at Brown University in Computer Science advised 
   <div style="flex: 1; max-width: 75%;">
     <h3 style="margin-top: 0; margin-bottom: 1em;">Vamos: Versatile Action Models for Video Understanding</h3>
     <p><strong>Authors:</strong> Shijie Wang, Qi Zhao, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
-    <p><strong>Details:</strong> Preprint, In Submission to CVPR 2024</p>
+    <p><strong>Details:</strong> Preprint.</p>
     <p><a href="https://arxiv.org/abs/2311.13627">website</a> | <a href="https://brown-palm.github.io/Vamos/">arXiv</a></p>
   </div>
 </div>
@@ -37,7 +37,7 @@ I am a 5th year masters student at Brown University in Computer Science advised 
   <div style="flex: 1; max-width: 75%;">
     <h3 style="margin-top: 0; margin-bottom: 1em;">AntGPT: Can Large Language Model Help Long-term Action Anticipation from Videos?</h3>
     <p><strong>Authors:</strong> Qi Zhao*, Shijie Wang*, Ce Zhang, Changcheng Fu, <strong>Minh Quan Do</strong>, Nakul Agarwal, Kwonjoon Lee, Chen Sun</p>
-    <p><strong>Details:</strong> Preprint, In Submission to ICLR 2024</p>
+    <p><strong>Details:</strong> Preprint.</p>
     <p><a href="https://arxiv.org/abs/2307.16368">website</a> | <a href="https://brown-palm.github.io/AntGPT/">arXiv</a></p>
   </div>
 </div>
